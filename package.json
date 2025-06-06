@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.15.24"
+  },
+  "dependencies": {
+    "@mui/icons-material": "^7.1.0"
+  }
+}
